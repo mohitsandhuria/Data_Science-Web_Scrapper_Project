@@ -53,8 +53,6 @@ def index():
                     #rating.encode(encoding='utf-8')
                     rating = commentbox.div.div.div.div.text
 
-
-
                 except:
                     rating = 'No Rating'
 
